@@ -1,0 +1,6 @@
+@TrainingBotCore_HostAddress = http://localhost:5069
+
+GET {{TrainingBotCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

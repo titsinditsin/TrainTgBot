@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Telegram.TrainingBot/Telegram.TrainingBot.csproj" Id="9b6c2403-425c-454f-8213-70e84f087977" />
+  <Project Path="../TrainingBotClassLibrary/TrainingBotClassLibrary.csproj" Id="09a1458d-2941-458f-bf98-cde0c4b82fe2" />
+  <Project Path="TrainingBotCore.csproj" />
+</Solution>
